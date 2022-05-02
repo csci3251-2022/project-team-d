@@ -21,4 +21,9 @@ CSCI3251 project, we assgined the lastest unsolved task to one joined the team.
 | Task6 | SteveTangO (assigned) |
 | Task7 | baamdoo |
 
+{% for stu in site.stu %}
+  <h2>{{ stu.image }} - {{ stu.user }} - {{ stu.name }}</h2>
+  <p>{{ stu.content | markdownify }}</p>
+{% endfor %}
+
 Last updated: {{ site.time }}
