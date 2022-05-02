@@ -2,6 +2,12 @@
 CSCI3251 project, we assgined the lastest unsolved task to one joined the team.
 
 # Code
+```C
+//c code
+{% include_relative code.c %}
+```
+![example workflow](https://github.com/csci3251-2022/project-team-d/actions/workflows/c-cpp.yml/badge.svg)
+
 
 # Contributors
 
@@ -15,4 +21,4 @@ CSCI3251 project, we assgined the lastest unsolved task to one joined the team.
 | Task6 | SteveTangO (assigned) |
 | Task7 | |
 
- 
+
