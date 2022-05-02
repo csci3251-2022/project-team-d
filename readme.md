@@ -19,6 +19,6 @@ CSCI3251 project, we assgined the lastest unsolved task to one joined the team.
 | Task4 | AppleLam (assigned) |
 | Task5 | DanielASR (assigned) |
 | Task6 | SteveTangO (assigned) |
-| Task7 | |
+| Task7 | baamdoo |
 
-
+Last updated: {{ site.time }}
